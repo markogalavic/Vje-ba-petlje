@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\bin\Debug\galavićMarkoPetlje.exe.config
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\bin\Debug\galavićMarkoPetlje.exe
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\bin\Debug\galavićMarkoPetlje.pdb
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\obj\Debug\galavićMarkoPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\obj\Debug\galavićMarkoPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\obj\Debug\galavićMarkoPetlje.exe
+C:\Users\3.D\source\repos\galavićMarkoPetlje\galavićMarkoPetlje\obj\Debug\galavićMarkoPetlje.pdb
